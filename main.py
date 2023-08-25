@@ -32,8 +32,8 @@ def organize_files(source_folder, target_folder):
             shutil.move(source_path, target_file)
             print(f"Moved {filename} to {target_subfolder}")
 
-source_folder = "/Volumes/Lucas 1/Source/"  # Update this path
-target_folder = "/Volumes/Lucas 1/Target/"  # Update this path
+source_folder = "//"  # Update this path
+target_folder = "//"  # Update this path
 
 organize_files(source_folder, target_folder)
 

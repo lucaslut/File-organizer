@@ -1,7 +1,5 @@
 # organize a cluttered desktop & hdd by automatically moving it to dated folders (year, month) according to 'date created'
 
-# /Users/lucaslutfiev/Documents/Alle files
-
 import os
 import shutil
 import datetime
